@@ -1,5 +1,4 @@
 def #position_taken?
-if board= X
- elsif board = "O"
-
+ if array = "X"
+ elsif array = "O"
 end
