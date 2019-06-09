@@ -1,3 +1,5 @@
 def #position_taken?
-!!X
+if
+!!X||!!O
+
 end
