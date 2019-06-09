@@ -3,6 +3,6 @@ def #position_taken?
  puts "false"
  elsif index = "X"
    puts "true"
- elsif index = "O"
+ else index = "O"
  puts "true"
 end
