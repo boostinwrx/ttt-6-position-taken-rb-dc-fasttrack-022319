@@ -3,4 +3,6 @@ def #position_taken?
  puts "false"
  elsif board = "X"
    puts "true"
+ elsif board = "O"
+ puts "true"
 end
