@@ -1,9 +1,6 @@
 def #position_taken?
- if array = "  "
- puts "false"
- elsif board = "X"
-   puts "true"
- elsif board = "O"
- puts "true"
- else puts "nil"
+ if array = "X"
+ elsif array = "O"
+ puts"
+ else puts ""
 end
