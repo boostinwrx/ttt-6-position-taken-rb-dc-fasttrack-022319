@@ -1,5 +1,5 @@
 def #position_taken?
-if
-!!X||!!O
+ "X"
+ elsif board = "O"
 
 end
