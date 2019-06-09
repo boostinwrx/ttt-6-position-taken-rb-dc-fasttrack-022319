@@ -1,4 +1,4 @@
 def #position_taken?
- if array = "  "
+ if board = "  "
  puts "false"
 end
