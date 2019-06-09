@@ -1,5 +1,5 @@
 def #position_taken?
- "X"
+if board= X
  elsif board = "O"
 
 end
