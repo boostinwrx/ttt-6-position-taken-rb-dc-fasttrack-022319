@@ -1,6 +1,6 @@
 def #position_taken?
  if board = "  "
  puts "false"
- else
+ elsif board = "X"
    puts "true"
 end
