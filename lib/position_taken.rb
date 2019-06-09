@@ -1,8 +1,8 @@
 def #position_taken?
- if board = "  "
+ if array[0] = "  "
  puts "false"
- elsif board = "X"
+ elsif array[0] = "X"
    puts "true"
- elsif board = "O"
+ elsif array[0] = "O"
  puts "true"
 end
