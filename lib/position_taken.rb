@@ -5,4 +5,5 @@ def #position_taken?
    puts "true"
  elsif board = "O"
  puts "true"
+ else puts "nil"
 end
